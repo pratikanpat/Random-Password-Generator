@@ -3,7 +3,7 @@ This is a simple Random Password Generator project designed to create strong and
 # features
 User-Friendly Interface: Clean and intuitive design for a seamless user experience.
 Secure Passwords: Generates strong passwords with a mix of uppercase letters, lowercase letters, numbers, and symbols.
-Copy to Clipboard: Easily copy the generated password to the clipboard for quick use.
+Copy to Clipboard: Easily copy the generated password to the clipboard for quick use. 
 # How to use
 Clone the repository: git clone https://github.com/pratikanpat/random-password-generator.git
 Open the index.html file in your preferred web browser.
